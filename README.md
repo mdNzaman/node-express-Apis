@@ -44,7 +44,7 @@ To store profile pics used
 
 ####  POST APIs
 
-```http
+```bash
   POST   /api/send-phone-verification-otp
   POST   /api/verify-phone-verification-otp
   POST   /api/register-user
@@ -61,7 +61,7 @@ To store profile pics used
 To send friend request and push notification to other user.
 
 For push notification install with npm
-```http
+```bash
   npm install fcm-node
 ```
 Generate server key on
