@@ -71,6 +71,6 @@ Generate server key on
 
 - [@nooruz_zaman](https://www.github.com/mdNzaman)
 
-To setup and for more info reach me 
+To setup and for more details contact me
 
 - [nooruzzaman18@gmail.com](nooruzzaman18@gmail.com)
